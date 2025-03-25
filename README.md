@@ -39,7 +39,8 @@ The dataset used for this project includes the following columns:
 
 ## How to Run the Project
 1. Import the dataset into Power BI.  
-2. Clean and transform data using Power Query.  
+2. Clean and transform data using Power Query.  ![Uploading image.png…]()
+
 3. Create calculated measures using DAX formulas.  
 4. Build visualizations such as line charts, bar charts, and KPI cards.  
 5. Analyze the results to extract insights into passenger trends.  
